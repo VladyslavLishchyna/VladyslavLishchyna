@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-vladislav-lischyna?style=flat-square&labelColor=blue&&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-lischyna/)](https://www.linkedin.com/in/vladislav-lischyna/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkidIn?style=flat-square&labelColor=blue&&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-lischyna/)](https://www.linkedin.com/in/vladislav-lischyna/)
 [![Gmail Badge](https://img.shields.io/badge/-duskone39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duskone39@gmail.com)](mailto:duskone39@gmail.com)
-
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14392639/duskone39)
 ## ⚡ Technologies
 
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
