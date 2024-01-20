@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Profile last updated](https://img.shields.io/github/last-commit/VladyslavLishchyna/VladyslavLishchyna/main?label=Last%20updated&style=flat)](https://github.com/VladyslavLishchyna/VladyslavLishchyna/commits)
+<br>
 [![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
 
 ## ⚡ Technologies that I use on a daily basis
