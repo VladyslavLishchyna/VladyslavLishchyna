@@ -3,7 +3,7 @@
 <br>
 [![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
 
-## ⚡ Technologies that I use on a daily basis
+## ⚡ Technologies and Services that I use on a daily basis
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
