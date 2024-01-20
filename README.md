@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Profile last updated](https://img.shields.io/github/last-commit/VladyslavLishchyna/VladyslavLishchyna/main?label=Last%20updated&style=flat)](https://github.com/VladyslavLishchyna/VladyslavLishchyna/commits)
 [![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
 
 ## ⚡ Technologies that I use on a daily basis
@@ -36,6 +37,3 @@ src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show
 <a target="_blank"href="https://stackoverflow.com/users/14392639/duskone39/"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://orcid.org/0000-0002-4827-9456/"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
----
-[![Profile last updated](https://img.shields.io/github/last-commit/VladyslavLishchyna/VladyslavLishchyna/main?label=Last%20updated&style=flat)](https://github.com/VladyslavLishchyna/VladyslavLishchyna/commits)
