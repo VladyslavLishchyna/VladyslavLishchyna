@@ -17,6 +17,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logoColor=white&logo=jenkins)
 
 ## ⚡ Also use for work
+![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white)
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=black)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
