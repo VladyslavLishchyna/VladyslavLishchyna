@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkidIn?style=flat-square&labelColor=blue&&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-lischyna/)](https://www.linkedin.com/in/vladislav-lischyna/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14392639/duskone39)
 [![Gmail Badge](https://img.shields.io/badge/-duskone39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duskone39@gmail.com)](mailto:duskone39@gmail.com)
-## ⚡ Technologies
+## ⚡ Technologies that I use on a daily basis
 
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
