@@ -16,6 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## ⚡ Also use for work
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <!--
 **VladyslavLishchyna/VladyslavLishchyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
