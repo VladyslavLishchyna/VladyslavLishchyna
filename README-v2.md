@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 <img alt="My GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show_icons=true&theme=transparent"/>
-
+[![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/duskone39)
