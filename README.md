@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⚡ Stats
 <img alt="My GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show_icons=true&theme=transparent"/>
 
