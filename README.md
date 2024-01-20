@@ -38,4 +38,4 @@ src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show
 </p>
 
 ---
-[![Profile last updated](https://img.shields.io/github/last-commit/VladyslavLishchyna/VladyslavLishchyna/master?label=Last%20updated&style=flat)](https://github.com/VladyslavLishchyna/VladyslavLishchyna/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/VladyslavLishchyna/VladyslavLishchyna/main?label=Last%20updated&style=flat)](https://github.com/VladyslavLishchyna/VladyslavLishchyna/commits)
