@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkidIn?style=flat-square&labelColor=blue&&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-lischyna/)](https://www.linkedin.com/in/vladislav-lischyna/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14392639/duskone39)
@@ -31,5 +32,3 @@ Here are some ideas to get you started:
 
 <img alt="My GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show_icons=true&theme=transparent"/>
-<br>
-[![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
