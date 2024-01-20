@@ -1,9 +1,6 @@
 ### Hi there 👋
 [![StackOverflow widget](https://github-readme-stackoverflow.vercel.app/?userID=14392639)](https://stackoverflow.com/users/14392639/vladyslav-lishchyna)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkidIn?style=flat-square&labelColor=blue&&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-lischyna/)](https://www.linkedin.com/in/vladislav-lischyna/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14392639/duskone39)
-[![Gmail Badge](https://img.shields.io/badge/-duskone39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duskone39@gmail.com)](mailto:duskone39@gmail.com)
 ## ⚡ Technologies that I use on a daily basis
 
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -31,3 +28,11 @@ Here are some ideas to get you started:
 
 <img alt="My GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=VladyslavLishchyna&show_icons=true&theme=transparent"/>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+ <a target="_blank"href="https://www.linkedin.com/in/vladislav-lischyna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:mailto:duskone39@gmail.com?subject=Hello%,%20From%20Github"><img src="https://img.shields.io/badge/duskone39@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://stackoverflow.com/users/14392639/duskone39/"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://orcid.org/0000-0002-4827-9456/"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
